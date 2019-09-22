@@ -8,6 +8,10 @@ ReproducibiliTea journal clubs help young researchers build a community of ECRs 
 
 Thank you to our sponsers: [UKRN <sup><i class="fas fa-external-link-square-alt"></i></sup>](https://ukrn.org/).
 
+## ReproducibiliTeam
+
+The ReproducibiliTea parent organisation in run by a group of ECR volunteers: Amy Orben, Sam Parsons, Sophie Crüwell, Jade Pickering, Matt Jaquiery and Katie Drax. 
+
 ## Podcast
 
 The ReproducibiliTea Co-Founders (Sam, Sophia and Amy) regularly resease ReproducibiliTea podcast episodes, highlighting the great work of early career researchers in Open Science. To listen in check out the podcast webpage at [soundcloud <sup><i class="fas fa-external-link-square-alt"></i></sup>](https://soundcloud.com/reproducibilitea).
